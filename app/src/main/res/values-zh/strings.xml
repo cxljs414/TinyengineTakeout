@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">淘Q乐购配送端</string>
+    <string name="apply_getcash">申请提现</string>
+    <string name="getcash">提现</string>
+    <string name="changepassword">确认提交</string>
+
+    <string name="notifyTitle">提示</string>
+    <string name="notifyMsg">当前应用缺少必要权限。\n\n请点击\"设置\"-\"权限\"-打开所需权限。</string>
+    <string name="setting">设置</string>
+    <string name="cancel">取消</string>
+
+    <string name="preference_default_tts_role">xiaoyan</string>
+    <string name="preference_key_tts_speed">tts_speed</string>
+    <string name="preference_key_tts_pitch">tts_pitch</string>
+    <string name="preference_key_tts_volume">tts_volume</string>
+
+
+    <string name="title_activity_regist">注册</string>
+    <string name="title_activity_login">登录</string>
+    <string name="title_activity_home">主页</string>
+    <string name="title_activity_cashdetail">交易详情</string>
+    <string name="title_activity_acountdetail">账户明细</string>
+    <string name="title_activity_setting">设置</string>
+    <string name="title_activity_myaccount">我的账户</string>
+    <string name="title_activity_changepassword">修改密码</string>
+    <string name="title_activity_orderdetail">订单详情</string>
+    <string name="title_activity_orderstatistics">订单统计</string>
+</resources>

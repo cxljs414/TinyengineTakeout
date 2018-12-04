@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TinyengineTakeout</string>
+    <string name="apply_getcash">apply_getcash</string>
+    <string name="getcash">getcash</string>
+    <string name="changepassword">commit</string>
+
+    <string name="notifyTitle">提示</string>
+    <string name="notifyMsg">当前应用缺少必要权限。\n\n请点击\"设置\"-\"权限\"-打开所需权限。</string>
+    <string name="setting">设置</string>
+    <string name="cancel">取消</string>
+
+    <string name="preference_default_tts_role">xiaoyan</string>
+    <string name="preference_key_tts_speed">tts_speed</string>
+    <string name="preference_key_tts_pitch">tts_pitch</string>
+    <string name="preference_key_tts_volume">tts_volume</string>
+
+    <string name="title_activity_regist">REGIST</string>
+    <string name="title_activity_login">LOGIN</string>
+    <string name="title_activity_home">HOME</string>
+    <string name="title_activity_cashdetail">CASHDETAIL</string>
+    <string name="title_activity_acountdetail">ACOUNTDETAIL</string>
+    <string name="title_activity_setting">SETTING</string>
+    <string name="title_activity_myaccount">MYACCOUNT</string>
+    <string name="title_activity_changepassword">CHANGEPASSWORD</string>
+    <string name="title_activity_orderdetail">ORDERDETAIL</string>
+    <string name="title_activity_orderstatistics">ORDERSTATISTICS</string>
+</resources>
